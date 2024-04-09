@@ -1,0 +1,5 @@
+English-Spanish Dataset : http://storage.googleapis.com/download.tensorflow.org/data/spa-eng.zip
+Text Summarization	: https://huggingface.co/datasets/samsum
+Grammar correction	: https://huggingface.co/datasets/jhu-clsp/jfleg?ref=vennify.ai
+Email Generation	: https://www.kaggle.com/datasets/mikeschmidtavemac/emailblog
+
