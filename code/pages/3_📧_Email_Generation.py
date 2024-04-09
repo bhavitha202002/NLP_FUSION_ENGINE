@@ -12,7 +12,7 @@ st.set_page_config(
 st.write('# <span style="color:darkblue"> Email Generation </span>', unsafe_allow_html=True)
 
 # Set your GPT-3 API key here
-api_key = "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"
+api_key = "your_api_key"
 
 #Generate email function
 def generate_email(prompt,max_length):
