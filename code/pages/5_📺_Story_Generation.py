@@ -40,7 +40,7 @@ result = st.button(f"**Generate Story**", type="primary")
 if result : 
 # Set your OpenAI API key
     with st.spinner(f'Please wait...generating story'):
-        api_key = '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'
+        api_key = 'your_api_key'
 
         # Provide input for story generation
         character_list = ', '.join([f"{name} ({gender})" for name, gender in characters.items()])
